@@ -11,7 +11,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ## Resultados gerais
 
 ### Bubble Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 78 | 194 |
 | v2 | 0 | 19 |
@@ -20,7 +20,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ---
 
 ### Selection Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 18 | 210 |
 | v2 | 0 | 210 |
@@ -29,7 +29,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ---
 
 ### Cocktail Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 78 | 168 |
 | v2 | 0 | 38 |
@@ -38,7 +38,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ---
 
 ### Comb Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 27 | 126 |
 | v2 | 0 | 126 |
@@ -47,7 +47,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ---
 
 ### Gnome Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 78 | 174 |
 | v2 | 0 | 19 |
@@ -56,7 +56,7 @@ Foram testadas três variações de cada algoritmo, e medidos dois critérios pr
 ---
 
 ### Bucket Sort
-| Versão | Trocas | Repetições |
+| Vetor | Trocas | Repetições |
 |:--------|:-------:|:-----------:|
 | v1 | 42 | 141 |
 | v2 | 40 | 141 |
